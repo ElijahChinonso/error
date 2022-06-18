@@ -1,11 +1,11 @@
 public  class Headphone {
 
-    String microChip;
-    String power;
-    int volume;
-    String skip;
-    String playPause;
-    String redBlack;
+ private   String microChip;
+ private   String power;
+ private   int volume;
+ private   String skip;
+ private   String playPause;
+ private   String redBlack;
 
 
     public String powerOn(){
